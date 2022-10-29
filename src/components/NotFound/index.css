@@ -1,0 +1,15 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+.about-img {
+  margin-bottom: 35px;
+}
+.about-heading {
+  color: #551e53;
+  font-size: 50px;
+  font-weight: bold;
+}
